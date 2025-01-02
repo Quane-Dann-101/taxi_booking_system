@@ -12,8 +12,9 @@ Follow these steps to set up and run the project on your machine:
 ### 1. Clone the Repository
 Download the project by cloning the repository:
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/Quane-Dann-101/taxi_booking_system.git
+cd taxi_booking_system
+
 ```
 
 ### 2. Create a Virtual Environment
